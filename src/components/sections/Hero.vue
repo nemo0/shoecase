@@ -12,7 +12,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis hic
         doloremque dicta, natus debitis in illum mollitia iste optio voluptatum!
       </p>
-      <button class="btn-yellow">Buy Now</button>
+      <a class="btn-yellow" href="/buy">Buy Now</a>
     </div>
   </div>
 </template>

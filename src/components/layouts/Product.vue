@@ -1,7 +1,11 @@
 <template>
   <div class="product">
     <div class="product-image">
-      <img :src="require(`@/assets/${image}`)" alt="Product Image" />
+      <img
+        :src="require(`@/assets/${image}`)"
+        alt="Product Image"
+        class="p-image"
+      />
     </div>
     <div class="product-desc">
       {{ product }}

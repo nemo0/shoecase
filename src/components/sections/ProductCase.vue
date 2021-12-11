@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import Product from "@/components/layout/Product.vue";
+import Product from "@/components/layouts/Product.vue";
 
 export default {
   name: "ProductCase",
