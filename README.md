@@ -1,5 +1,7 @@
 # Wise Frontend Challenge
 
+**[Live Preview on Netlify](https://shoe-case.netlify.app)**
+
 ## Installation and Setup
 
 ### Project Setup
