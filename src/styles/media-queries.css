@@ -1,0 +1,92 @@
+@media screen and (max-width: 768px) {
+  /* Home Page */
+  .hero {
+    flex-direction: column;
+  }
+
+  .showcase img {
+    height: 40vh;
+  }
+
+  .product-case {
+    flex-direction: column;
+  }
+
+  .product {
+    margin: 1.25rem 0;
+  }
+
+  /* Buy Page */
+  .form {
+    width: 100%;
+    padding: 0;
+  }
+
+  .buy-hero-part {
+    flex-direction: column;
+  }
+  .buy-hero-text h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .buy-hero-text p {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .f-start {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .payment-amount {
+    width: 100%;
+    margin: 1.25rem auto;
+  }
+
+  .payment-form {
+    width: 100%;
+  }
+
+  .full {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .showcase img {
+    height: 25vh;
+  }
+  .showcase-desc h1 {
+    font-size: 2.5rem;
+  }
+
+  .showcase-desc p {
+    font-size: 1.15rem;
+  }
+
+  .buy-hero {
+    width: 100%;
+  }
+
+  .buy-hero-text h1 {
+    font-size: 2rem;
+  }
+
+  .bill-container {
+    width: 100vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .showcase img {
+    height: 40vh;
+  }
+  .buy-hero {
+    width: 100vw;
+  }
+
+  #month {
+    width: 30%;
+  }
+}

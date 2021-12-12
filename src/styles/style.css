@@ -2,6 +2,7 @@
 @import url('./keyframes.css');
 @import url('./home.css');
 @import url('./buy.css');
+@import url('./media-queries.css');
 
 * {
   margin: 0;
@@ -33,6 +34,8 @@ nav ul {
 
 nav ul li {
   margin: 0 0.5rem;
+  text-decoration: none;
+  font-weight: 700;
 }
 
 .router-link-active {

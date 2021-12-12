@@ -3,7 +3,7 @@
     <div class="buy">
       <BuyHero />
     </div>
-    <div>
+    <div class="full">
       <PaymentForm />
     </div>
   </div>
